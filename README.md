@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adrian
 - 👀 I’m interested in Front-end development (Framework Vue.js).
-- 🌱 I’m currently learning Back-End (MySQL).
-- 📫 Please contact me by email: adriankxavier@gmail.com or by instagram: @adrianz_kx.
+- 📫 Please contact me by email: adriankxavier@gmail.com or by instagram: @adrian_kxavier
 
 <!---
 Adrian-kx/Adrian-kx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
