@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in Front-end development (Framework Vue.js).
+- 👀 I’m interested in Front-end development (React.js, Typescript, React Native).
 - 📫 Please contact me by email: adriankxavier@gmail.com or by Linkedin: https://www.linkedin.com/in/adrian-xavier-85ab81201/
 
 <!---
