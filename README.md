@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: HTML, CSS, React, React Native e Node.js
+  💻 Linguagens: Typescript, UX/UI, React, React Native e Node.js
 </p>
 
 <p align="left">
