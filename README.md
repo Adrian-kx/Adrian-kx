@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou Adrian 👋, desenvolvedor Full Stack, especializado em criar soluções digitais inovadoras. Atualmente, estou trabalhando na Ignite Corporation (www.ignitecorp.com.br), uma software house, onde desenvolvemos sistemas, sites e aplicativos, além de oferecer serviços de marketing digital.
+  Olá, sou Adrian 👋, desenvolvedor Full Stack, especializado em criar soluções digitais inovadoras. Atualmente, estou trabalhando na Ignite Corporation (www.ignitecorp.com.br), uma software house, onde desenvolvemos sistemas, sites e aplicativos.
 </p>
 
 <p align="left">
-  💻 Linguagens: Typescript, UX/UI, React, React Native e Node.js
+  💻 Tecnologias: Typescript, React, React Native e Node.js
 </p>
 
 <p align="left">
