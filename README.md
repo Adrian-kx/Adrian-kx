@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-direction: row">
 
   <div style="flex: 1;">
 
@@ -30,7 +30,7 @@
   </div>
 
   <div style="flex: 0 0 350px; text-align: right;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
+    <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&cache_seconds=1" />
   </div>
 
 </div>
