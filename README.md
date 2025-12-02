@@ -1,4 +1,4 @@
-<p align="center">
+<p align="rigth">
   <a>
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherm0nk&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
   </a>
