@@ -6,9 +6,6 @@
   💻 Technologies: TypeScript, React, React Native, and Node.js
 </p>
 <p align="left">
-  💼 Tools: Expo, Figma, Adobe Photoshop, and Vite.
-</p>
-<p align="left">
   💌 Get in touch with me: ⤵️
 </p>
 <p align="left">
@@ -20,8 +17,5 @@
   </a>
   <a href="https://www.adrianxavier.com.br" title="My Website">
     <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&labelColor=000000&logoColor=white&link=https://www.adrianxavier.com.br" alt="Website"/>
-  </a>
-  <a href="https://www.instagram.com/adrian_kxavier" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_kxavier" alt="Instagram"/>
   </a>
 </p>
