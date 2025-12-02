@@ -1,6 +1,10 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-direction: row">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; margin-bottom: 20px;">
 
-  <div style="flex: 1;">
+  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api?username=Adrian-kx&show_icons=true&theme=shadow_green&hide_border=true&cache_seconds=1" />
+
+  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&cache_seconds=1" />
+
+</div>
 
 <p align="left"> 
   Hello, I'm Adrian 👋, a Full Stack developer specializing in building innovative digital solutions.  
@@ -17,7 +21,7 @@
 
 <p align="left">
   <a href="mailto:adriankxavier@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:adriankxavier@gmail.com" />
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-xavier-85ab81201" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -26,11 +30,3 @@
     <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&labelColor=000000&logoColor=white" />
   </a>
 </p>
-
-  </div>
-
-  <div style="flex: 0 0 350px; text-align: right;">
-    <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&cache_seconds=1" />
-  </div>
-
-</div>
