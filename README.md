@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="center">
+  <a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherm0nk&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
+  </a>
+</p>
 <p align="left"> 
   Hello, I'm Adrian 👋, a Full Stack developer specializing in building innovative digital solutions. I'm currently working at Ignite Corporation (www.ignitecorp.com.br), a software house where we develop systems, websites, and applications.
 </p>
