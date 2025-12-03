@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: center; gap: 20px; width: 100%; margin-bottom: 20px;">
 
-  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api?username=Adrian-kx&show_icons=true&theme=shadow_green&hide_border=true&cache_seconds=1" />
+  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api?username=Adrian-kx&show_icons=true&theme=shadow_green&hide_border=true&cache_seconds=1&v=2" />
 
-  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&cache_seconds=1" />
+  <img height="200" src="https://github-readme-stats-adrian-kx.vercel.app/api/top-langs/?username=Adrian-kx&layout=compact&theme=shadow_green&hide_border=true&cache_seconds=1&v=2" />
 
 </div>
 
