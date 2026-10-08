@@ -8,7 +8,6 @@
 
 <p align="left"> 
   Hello, I'm Adrian 👋, a Full Stack developer specializing in building innovative digital solutions.  
-  I'm currently working at Ignite Corporation (www.ignitecorp.com.br), a software house where we develop systems, websites, and applications.
 </p>
 
 <p align="left">
