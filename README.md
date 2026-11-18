@@ -1,5 +1,3 @@
-![Contador de visitas](https://komarev.com/ghpvc/?username=Adrian-kx&color=006bed)
-
 # Olá! Eu sou Adrian Xavier 👋
 
 Engenheiro de software com experiência em desenvolvimento web, mobile e back-end, atualmente com foco em Inteligência Artificial e Machine Learning.
